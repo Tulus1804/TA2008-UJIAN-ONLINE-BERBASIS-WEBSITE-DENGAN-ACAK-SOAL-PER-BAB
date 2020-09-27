@@ -1,4 +1,4 @@
-# TA.2008-UJIAN-ONLINE BERBASIS WEBSITE DENGAN ACAK SOAL PER BAB
+# TA.2008 APLIKASI UJIAN ONLINE BERBASIS WEBSITE DENGAN ACAK SOAL PER BAB
 
 This application is made to fulfill one of the conditions
 graduation from D2 Informatics Engineering study program, PDD POLBAN.
