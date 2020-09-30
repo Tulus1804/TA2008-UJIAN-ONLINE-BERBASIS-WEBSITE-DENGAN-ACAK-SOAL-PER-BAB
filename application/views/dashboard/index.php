@@ -11,6 +11,9 @@
 					<div class="col-xs-11 text-right menu-1">
 						<ul>
 							<li class="active"><a href="<?= base_url() ?>">Home</a></li>
+							<li><a href="courses.html">Courses</a></li>
+							<li><a href="pricing.html">Pricing</a></li>
+							<li><a href="<?= base_url() ?>">Home</a></li>
 							<li class="btn-cta"><a href="<?= base_url('auth') ?>"><span>Log In</span></a></li>
 						</ul>
 					</div>
