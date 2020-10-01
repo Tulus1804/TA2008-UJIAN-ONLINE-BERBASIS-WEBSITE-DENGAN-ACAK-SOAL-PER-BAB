@@ -31,7 +31,7 @@
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>Bantuan</h1>
-							<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+							<p>Aplikasi Ujian Online Berbasis Web dengan Pengacakan Soal per Bab</p>
 						</div>
 					</div>
 				</div>
@@ -56,8 +56,8 @@
 					</div>
 					<div class="col-md-4 col-md-pull-8 animate-box">
 						<div class="mt">
-							<h3>We Want You To Learn English</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3>Buat Akun anda!</h3>
+							<!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p> -->
 							<ul class="list-nav">
 								<li><i class="icon-check2"></i>Far far away, behind the word</li>
 								<li><i class="icon-check2"></i>There live the blind texts</li>
