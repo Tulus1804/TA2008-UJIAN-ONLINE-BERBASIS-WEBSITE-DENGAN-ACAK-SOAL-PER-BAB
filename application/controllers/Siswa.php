@@ -207,6 +207,11 @@ class Siswa extends CI_Controller
 		$this->load->view('templates/siswa_footer');
 	}
 
+	public function getdataanggota()
+	{
+		echo json_encode($this->Anggota_model->getDataANggotaByNis($_POST['nis']));
+	}
+
 	public function ujian($id)
 	{
 		$data['user'] = $this->db->get_where('user', ['email' =>

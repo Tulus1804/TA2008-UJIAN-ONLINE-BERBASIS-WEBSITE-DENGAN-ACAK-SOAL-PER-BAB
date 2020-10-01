@@ -1,6 +1,6 @@
 <div class="callout callout-info">
 	<h4>Peraturan Ujian!</h4>
-	<?= $ujian->petunjuk; ?>
+	<?= auto_typography($ujian->petunjuk); ?>
 </div>
 <div class="box box-primary">
 	<div class="box-header with-border">

@@ -155,11 +155,11 @@ class Ujian extends CI_Controller
 					if (!empty($s->file)) {
 						$html .= '<div class="text-center">
                             <div class="w-25">' . '<img class="thumbnail w-1000" src="' . base_url($path) . $s->file . '">' . '</div>
-                            </div>' . $s->soal . '<div class="funkyradio">';
+                            </div>' . auto_typography($s->soal) . '<div class="funkyradio">';
 					} else {
 						$html .= '<div class="text-center">
                             <div class="w-25">' . '</div>
-                            </div>' . $s->soal . '<div class="funkyradio">';
+                            </div>' . auto_typography($s->soal) . '<div class="funkyradio">';
 					}
 
 					for ($j = 0; $j < $this->config->item('jml_opsi'); $j++) {
@@ -290,11 +290,11 @@ class Ujian extends CI_Controller
 					if (!empty($s->file)) {
 						$html .= '<div class="text-center">
                             <div class="w-25">' . '<img class="thumbnail w-1000" src="' . base_url($path) . $s->file . '">' . '</div>
-                            </div>' . $s->soal . '<div class="funkyradio">';
+                            </div>' . auto_typography($s->soal) . '<div class="funkyradio">';
 					} else {
 						$html .= '<div class="text-center">
                             <div class="w-25">' . '</div>
-                            </div>' . $s->soal . '<div class="funkyradio">';
+                            </div>' . auto_typography($s->soal) . '<div class="funkyradio">';
 					}
 
 					for ($j = 0; $j < $this->config->item('jml_opsi'); $j++) {
